@@ -1,0 +1,11 @@
+C:\Users\Yuuya\source\repos\YouTube URL Generator\bin\Release\YouTube URL Generator.exe.config
+C:\Users\Yuuya\source\repos\YouTube URL Generator\bin\Release\YouTube URL Generator.exe
+C:\Users\Yuuya\source\repos\YouTube URL Generator\bin\Release\YouTube URL Generator.pdb
+C:\Users\Yuuya\source\repos\YouTube URL Generator\obj\Release\YouTube URL Generator.csproj.AssemblyReference.cache
+C:\Users\Yuuya\source\repos\YouTube URL Generator\obj\Release\YouTube URL Generator.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yuuya\source\repos\YouTube URL Generator\obj\Release\YouTube_URL_Generator.Form1.resources
+C:\Users\Yuuya\source\repos\YouTube URL Generator\obj\Release\YouTube_URL_Generator.Properties.Resources.resources
+C:\Users\Yuuya\source\repos\YouTube URL Generator\obj\Release\YouTube URL Generator.csproj.GenerateResource.cache
+C:\Users\Yuuya\source\repos\YouTube URL Generator\obj\Release\YouTube URL Generator.csproj.CoreCompileInputs.cache
+C:\Users\Yuuya\source\repos\YouTube URL Generator\obj\Release\YouTube URL Generator.exe
+C:\Users\Yuuya\source\repos\YouTube URL Generator\obj\Release\YouTube URL Generator.pdb
