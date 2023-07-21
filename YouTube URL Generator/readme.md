@@ -15,4 +15,4 @@ Generation on the following two devices is possible:
 However, it is recommended to use it only when transferring to mobile, as NET::ERR_CERT_COMMON_NAME_INVALID error will occur if the page is for mobile on PC.
 
 # Download
-You can download it from this link.
+You can download it from [this](bin/Release/YouTube%20URL%20Generator.exe) link.
