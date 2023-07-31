@@ -1,0 +1,8 @@
+C:\Users\Yuuya\source\repos\ArgumentsTest\bin\Release\ArgumentsTest.exe.config
+C:\Users\Yuuya\source\repos\ArgumentsTest\bin\Release\ArgumentsTest.exe
+C:\Users\Yuuya\source\repos\ArgumentsTest\bin\Release\ArgumentsTest.pdb
+C:\Users\Yuuya\source\repos\ArgumentsTest\obj\Release\ArgumentsTest.csproj.AssemblyReference.cache
+C:\Users\Yuuya\source\repos\ArgumentsTest\obj\Release\ArgumentsTest.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yuuya\source\repos\ArgumentsTest\obj\Release\ArgumentsTest.csproj.CoreCompileInputs.cache
+C:\Users\Yuuya\source\repos\ArgumentsTest\obj\Release\ArgumentsTest.exe
+C:\Users\Yuuya\source\repos\ArgumentsTest\obj\Release\ArgumentsTest.pdb
