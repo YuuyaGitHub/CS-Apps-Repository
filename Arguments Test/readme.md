@@ -13,5 +13,5 @@ I don't have the knowledge to do it myself, so I let [ChatGPT](https://openai.co
 | /name:[Any Text] | Display arbitrary text. For example, if you enter "/name:ABC", it will be displayed as "ABC". <br>Do not include spaces (e.g. "/name: ABC"). If you enter a blank, it will not be displayed. |
 | /? | Display help.|
 
-# download
+# Download
 This program can be downloaded from [this](https://github.com/YuuyaGitHub/C-Apps-Repository/raw/main/Arguments%20Test/bin/Release/ArgumentsTest.exe) link.
