@@ -7,3 +7,6 @@ Because uploading to separate repositories results in more garbage repositories.
 # Kinds
 This includes console apps as well as Windows Forms applications.
 <br>No VB.NET is included.
+
+# Related repositories
+* [C++](https://github.com/YuuyaGitHub/My-C-Apps-Pack)
