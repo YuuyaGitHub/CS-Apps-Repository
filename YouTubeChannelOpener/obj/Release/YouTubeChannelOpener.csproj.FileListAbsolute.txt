@@ -1,0 +1,8 @@
+C:\Users\Yuuya\source\repos\YouTubeChannelOpener\bin\Release\YouTubeChannelOpener.exe.config
+C:\Users\Yuuya\source\repos\YouTubeChannelOpener\bin\Release\YouTubeChannelOpener.exe
+C:\Users\Yuuya\source\repos\YouTubeChannelOpener\bin\Release\YouTubeChannelOpener.pdb
+C:\Users\Yuuya\source\repos\YouTubeChannelOpener\obj\Release\YouTubeChannelOpener.csproj.AssemblyReference.cache
+C:\Users\Yuuya\source\repos\YouTubeChannelOpener\obj\Release\YouTubeChannelOpener.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yuuya\source\repos\YouTubeChannelOpener\obj\Release\YouTubeChannelOpener.csproj.CoreCompileInputs.cache
+C:\Users\Yuuya\source\repos\YouTubeChannelOpener\obj\Release\YouTubeChannelOpener.exe
+C:\Users\Yuuya\source\repos\YouTubeChannelOpener\obj\Release\YouTubeChannelOpener.pdb
