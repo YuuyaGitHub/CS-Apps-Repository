@@ -1,0 +1,12 @@
+C:\Users\Yuuya\source\repos\Random Selection\bin\Release\Random Selection.exe.config
+C:\Users\Yuuya\source\repos\Random Selection\bin\Release\Random Selection.exe
+C:\Users\Yuuya\source\repos\Random Selection\bin\Release\Random Selection.pdb
+C:\Users\Yuuya\source\repos\Random Selection\obj\Release\Random Selection.csproj.AssemblyReference.cache
+C:\Users\Yuuya\source\repos\Random Selection\obj\Release\Random Selection.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yuuya\source\repos\Random Selection\obj\Release\Random_Selection.Form1.resources
+C:\Users\Yuuya\source\repos\Random Selection\obj\Release\Random_Selection.Form2.resources
+C:\Users\Yuuya\source\repos\Random Selection\obj\Release\Random_Selection.Properties.Resources.resources
+C:\Users\Yuuya\source\repos\Random Selection\obj\Release\Random Selection.csproj.GenerateResource.cache
+C:\Users\Yuuya\source\repos\Random Selection\obj\Release\Random Selection.csproj.CoreCompileInputs.cache
+C:\Users\Yuuya\source\repos\Random Selection\obj\Release\Random Selection.exe
+C:\Users\Yuuya\source\repos\Random Selection\obj\Release\Random Selection.pdb
