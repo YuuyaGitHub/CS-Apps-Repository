@@ -25,3 +25,8 @@ Both are by design and there is no way to fix them.
 
 # Download
 This program can be downloaded from [this](https://github.com/YuuyaGitHub/CS-Apps-Repository/raw/main/Random%20Selection/bin/Release/Random%20Selection.exe) link.
+
+# Screenshots
+If you're wondering what this program looks like, take a look at the image below:
+![Character](https://github.com/YuuyaGitHub/CS-Apps-Repository/blob/main/Random%20Selection/Images/Character.png)
+![Random Number](https://github.com/YuuyaGitHub/CS-Apps-Repository/blob/main/Random%20Selection/Images/Random%20Nember.png)
