@@ -1,0 +1,8 @@
+C:\Users\Yuuya\source\repos\Minecraft Log Viewer\bin\Release\Minecraft Log Viewer.exe.config
+C:\Users\Yuuya\source\repos\Minecraft Log Viewer\bin\Release\Minecraft Log Viewer.exe
+C:\Users\Yuuya\source\repos\Minecraft Log Viewer\bin\Release\Minecraft Log Viewer.pdb
+C:\Users\Yuuya\source\repos\Minecraft Log Viewer\obj\Release\Minecraft Log Viewer.csproj.AssemblyReference.cache
+C:\Users\Yuuya\source\repos\Minecraft Log Viewer\obj\Release\Minecraft Log Viewer.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yuuya\source\repos\Minecraft Log Viewer\obj\Release\Minecraft Log Viewer.csproj.CoreCompileInputs.cache
+C:\Users\Yuuya\source\repos\Minecraft Log Viewer\obj\Release\Minecraft Log Viewer.exe
+C:\Users\Yuuya\source\repos\Minecraft Log Viewer\obj\Release\Minecraft Log Viewer.pdb
