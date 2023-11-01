@@ -16,4 +16,5 @@ However, it is recommended to use it only when transferring to mobile, as NET::E
 # Download
 You can download it from [this](https://github.com/YuuyaGitHub/C-Apps-Repository/raw/main/YouTube%20URL%20Generator/bin/Release/YouTube%20URL%20Generator.exe) link.
 
+# Screenshot
 ![YouTube URL Generator](screenshot.png)
