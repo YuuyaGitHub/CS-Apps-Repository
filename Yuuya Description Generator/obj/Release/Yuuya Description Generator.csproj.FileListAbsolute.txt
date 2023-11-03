@@ -1,0 +1,11 @@
+C:\Users\Yuuya\source\repos\Yuuya Description Generator\bin\Release\Yuuya Description Generator.exe.config
+C:\Users\Yuuya\source\repos\Yuuya Description Generator\bin\Release\Yuuya Description Generator.exe
+C:\Users\Yuuya\source\repos\Yuuya Description Generator\bin\Release\Yuuya Description Generator.pdb
+C:\Users\Yuuya\source\repos\Yuuya Description Generator\obj\Release\Yuuya Description Generator.csproj.AssemblyReference.cache
+C:\Users\Yuuya\source\repos\Yuuya Description Generator\obj\Release\Yuuya Description Generator.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yuuya\source\repos\Yuuya Description Generator\obj\Release\Yuuya_Description_Generator.Form1.resources
+C:\Users\Yuuya\source\repos\Yuuya Description Generator\obj\Release\Yuuya_Description_Generator.Properties.Resources.resources
+C:\Users\Yuuya\source\repos\Yuuya Description Generator\obj\Release\Yuuya Description Generator.csproj.GenerateResource.cache
+C:\Users\Yuuya\source\repos\Yuuya Description Generator\obj\Release\Yuuya Description Generator.csproj.CoreCompileInputs.cache
+C:\Users\Yuuya\source\repos\Yuuya Description Generator\obj\Release\Yuuya Description Generator.exe
+C:\Users\Yuuya\source\repos\Yuuya Description Generator\obj\Release\Yuuya Description Generator.pdb

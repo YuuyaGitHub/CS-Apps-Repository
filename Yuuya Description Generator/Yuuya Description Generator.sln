@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yuuya Description Generator", "Yuuya Description Generator.csproj", "{E468B51B-CC0E-403D-94E0-5CDD8720F8BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E468B51B-CC0E-403D-94E0-5CDD8720F8BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E468B51B-CC0E-403D-94E0-5CDD8720F8BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E468B51B-CC0E-403D-94E0-5CDD8720F8BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E468B51B-CC0E-403D-94E0-5CDD8720F8BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BC827FF2-788D-48EF-AFB8-6E2144270AA7}
+	EndGlobalSection
+EndGlobal
