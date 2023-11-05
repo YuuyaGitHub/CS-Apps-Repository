@@ -1,0 +1,13 @@
+C:\Users\Yuuya\source\repos\pack.mcmeta Generator\bin\Release\pack.mcmeta Generator.exe.config
+C:\Users\Yuuya\source\repos\pack.mcmeta Generator\bin\Release\pack.mcmeta Generator.exe
+C:\Users\Yuuya\source\repos\pack.mcmeta Generator\bin\Release\pack.mcmeta Generator.pdb
+C:\Users\Yuuya\source\repos\pack.mcmeta Generator\obj\Release\pack.mcmeta Generator.csproj.AssemblyReference.cache
+C:\Users\Yuuya\source\repos\pack.mcmeta Generator\obj\Release\pack.mcmeta Generator.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yuuya\source\repos\pack.mcmeta Generator\obj\Release\pack.mcmeta_Generator.Form1.resources
+C:\Users\Yuuya\source\repos\pack.mcmeta Generator\obj\Release\pack.mcmeta_Generator.pack_format_Versions.resources
+C:\Users\Yuuya\source\repos\pack.mcmeta Generator\obj\Release\pack.mcmeta_Generator.Properties.Resources.resources
+C:\Users\Yuuya\source\repos\pack.mcmeta Generator\obj\Release\pack.mcmeta Generator.csproj.GenerateResource.cache
+C:\Users\Yuuya\source\repos\pack.mcmeta Generator\obj\Release\pack.mcmeta Generator.csproj.CoreCompileInputs.cache
+C:\Users\Yuuya\source\repos\pack.mcmeta Generator\obj\Release\pack.mcmeta Generator.exe
+C:\Users\Yuuya\source\repos\pack.mcmeta Generator\obj\Release\pack.mcmeta Generator.pdb
+C:\Users\Yuuya\source\repos\pack.mcmeta Generator\obj\Release\pack.mcmeta_Generator.About.resources
