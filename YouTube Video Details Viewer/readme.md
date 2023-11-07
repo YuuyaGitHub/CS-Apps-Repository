@@ -35,7 +35,7 @@ The above code will display the upload date as "2023/11/07".
 * [YouTube Search Tool](https://github.com/YuuyaGitHub/CS-Apps-Repository/tree/main/YouTube%20Search%20Tool)
 
 # Download
-This program can be downloaded [here](https://github.com/YuuyaGitHub/CS-Apps-Repository/blob/main/YouTube%20Video%20Details%20Viewer/YouTube%20Video%20Details%20Viewer.zip).
+This program can be downloaded [here](https://github.com/YuuyaGitHub/CS-Apps-Repository/blob/main/YouTube%20Video%20Details%20Viewer/YouTube%20Video%20Details%20Viewer.zip). (Password: YuuyaYTVDV)
 
 # Screenshot
 ![Screenshot](Screenshot.png)
