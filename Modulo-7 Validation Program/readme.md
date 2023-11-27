@@ -10,7 +10,7 @@ This tool **does not always give correct results**.
 * As shown above, we consider some otherwise valid numbers to be "invalid", such as ```111-1111111```.
 
 # Download
-This program can be downloaded from [here](https://example.com).
+This program can be downloaded from [here](https://github.com/YuuyaGitHub/CS-Apps-Repository/raw/main/Modulo-7%20Validation%20Program/bin/Release/Modulo-7%20Validation%20Program.exe).
 
 # Screenshot
-! [Screenshot](Screenshot.png).
+![Screenshot](https://github.com/YuuyaGitHub/CS-Apps-Repository/blob/main/Modulo-7%20Validation%20Program/Screenshot.png)
