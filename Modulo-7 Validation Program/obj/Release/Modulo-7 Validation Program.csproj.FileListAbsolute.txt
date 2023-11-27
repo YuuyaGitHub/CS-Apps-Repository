@@ -1,0 +1,9 @@
+C:\Users\Yuuya\source\repos\Modulo-7 Validation Program\bin\Release\Modulo-7 Validation Program.exe
+C:\Users\Yuuya\source\repos\Modulo-7 Validation Program\bin\Release\Modulo-7 Validation Program.pdb
+C:\Users\Yuuya\source\repos\Modulo-7 Validation Program\obj\Release\Modulo-7 Validation Program.csproj.AssemblyReference.cache
+C:\Users\Yuuya\source\repos\Modulo-7 Validation Program\obj\Release\Modulo_7_Validation_Program.Form1.resources
+C:\Users\Yuuya\source\repos\Modulo-7 Validation Program\obj\Release\Modulo_7_Validation_Program.Properties.Resources.resources
+C:\Users\Yuuya\source\repos\Modulo-7 Validation Program\obj\Release\Modulo-7 Validation Program.csproj.GenerateResource.cache
+C:\Users\Yuuya\source\repos\Modulo-7 Validation Program\obj\Release\Modulo-7 Validation Program.csproj.CoreCompileInputs.cache
+C:\Users\Yuuya\source\repos\Modulo-7 Validation Program\obj\Release\Modulo-7 Validation Program.exe
+C:\Users\Yuuya\source\repos\Modulo-7 Validation Program\obj\Release\Modulo-7 Validation Program.pdb
