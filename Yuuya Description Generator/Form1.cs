@@ -15,20 +15,18 @@ namespace Yuuya_Description_Generator
         {
             try
             {
+                //概要欄の内容(予告なく変更される場合があります)
                 string generatedText = "今日の一言: " + textBox1.Text + "\r\n\r\n"
                     + textBox2.Text + "\r\n\r\n"
-                    + "理由なく低評価を押すのはおやめください。\r\n"
-                    + "低評価をする場合は、コメント欄に理由を書いてから低評価をしてください。\r\n\r\n"
-                    + "また、アンチはブロックいたします。\r\n\r\n"
-                    + "当チャンネルのコンテンツは下記のガイドラインをお読みになってからご利用することが可能です。\r\n"
-                    + "https://yuuya20061202.wixsite.com/website/yuuyaのチャンネルの転載ガイドライン\r\n\r\n"
                     + "チャンネル登録お願いします！\r\n"
                     + "https://www.youtube.com/channel/UCKMQY0OXZhdiRnbGN9Nm5kA?sub_confirmation=1\r\n\r\n"
                     + "Discord: https://discord.gg/gnvfE46wdr\r\n"
                     + "Discord ID: yuuyachannel\r\n\r\n"
                     + "サブチャンネル: https://youtube.com/channel/UCILL45rdM3CF7d7uW5sqihg\r\n"
-                    + "第3チャンネル: https://youtube.com/channel/UCvBOeLnUBVZ0zxdCoxuKT3A\r\n\r\n";
+                    + "第3チャンネル: https://youtube.com/channel/UCvBOeLnUBVZ0zxdCoxuKT3A\r\n\r\n"
+                    + "ホームページ: https://yuuya20061202.wixsite.com/website\r\n\r\n";
 
+                //ハッシュタグ欄の各行に「#」を追加することでハッシュタグを生成
                 string[] lines = textBox3.Text.Split(new string[] { Environment.NewLine }, StringSplitOptions.None);
                 for (int i = 0; i < lines.Length; i++)
                 {
@@ -38,11 +36,13 @@ namespace Yuuya_Description_Generator
 
                 generatedText += hashtaggedText;
 
+                //保存ダイアログを表示
                 SaveFileDialog saveFileDialog = new SaveFileDialog();
                 saveFileDialog.Filter = "テキストファイル|*.txt";
                 saveFileDialog.Title = "保存先の選択";
                 if (saveFileDialog.ShowDialog() == DialogResult.OK)
                 {
+                    //概要欄の結果をファイルに書き込む
                     File.WriteAllText(saveFileDialog.FileName, generatedText);
                 }
             }
