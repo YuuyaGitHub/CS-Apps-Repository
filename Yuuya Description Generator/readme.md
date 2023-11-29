@@ -25,4 +25,5 @@ Click [here](sample.txt) if you want to know what descriptions are generated usi
 This program can be downloaded [here](https://github.com/YuuyaGitHub/CS-Apps-Repository/raw/main/Yuuya%20Description%20Generator/bin/Release/Yuuya%20Description%20Generator.exe).
 
 # Screenshot
-Screenshot is coming soon!
+See the image below for an example of how to use it.
+![Screenshot](Screenshot.png)
