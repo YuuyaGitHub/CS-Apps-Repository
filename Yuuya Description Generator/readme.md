@@ -18,6 +18,9 @@ This program generates a video description used in videos on [Yuuya channel](htt
 ~~Please note that this summary field is based on information as of 11/4/2023 and will become outdated if the default summary field changes.~~
 <br>~~I don't update the code at all because updating is very troublesome. :D~~
 
+# What is generated?
+Click [here](sample.txt) if you want to know what descriptions are generated using this program.
+
 # Download
 This program can be downloaded [here](https://github.com/YuuyaGitHub/CS-Apps-Repository/raw/main/Yuuya%20Description%20Generator/bin/Release/Yuuya%20Description%20Generator.exe).
 
