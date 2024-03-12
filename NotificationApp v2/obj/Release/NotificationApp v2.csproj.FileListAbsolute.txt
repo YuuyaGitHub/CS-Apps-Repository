@@ -1,0 +1,9 @@
+C:\Users\Yuuya\source\repos\NotificationApp v2\bin\Release\NotificationApp v2.exe
+C:\Users\Yuuya\source\repos\NotificationApp v2\bin\Release\NotificationApp v2.pdb
+C:\Users\Yuuya\source\repos\NotificationApp v2\obj\Release\NotificationApp v2.csproj.AssemblyReference.cache
+C:\Users\Yuuya\source\repos\NotificationApp v2\obj\Release\NotificationApp_v2.Form1.resources
+C:\Users\Yuuya\source\repos\NotificationApp v2\obj\Release\NotificationApp_v2.Properties.Resources.resources
+C:\Users\Yuuya\source\repos\NotificationApp v2\obj\Release\NotificationApp v2.csproj.GenerateResource.cache
+C:\Users\Yuuya\source\repos\NotificationApp v2\obj\Release\NotificationApp v2.csproj.CoreCompileInputs.cache
+C:\Users\Yuuya\source\repos\NotificationApp v2\obj\Release\NotificationApp v2.exe
+C:\Users\Yuuya\source\repos\NotificationApp v2\obj\Release\NotificationApp v2.pdb
