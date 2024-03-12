@@ -22,7 +22,7 @@ Please feel free to use it for any purpose. (Entertainment purposes, educational
 
 # Screenshot
 If you're curious about what this program looks like, take a look at the image below.<br>
-![Screenshot](screenshot.png)
+![Screenshot](Screenshot.png)
 
 # Download
 This program can be downloaded [here]([https://github.com/YuuyaGitHub/CS-Apps-Repository/blob/main/NotificationApp%20v2/bin/Release/NotificationApp%20v2.exe](https://github.com/YuuyaGitHub/CS-Apps-Repository/raw/main/NotificationApp%20v2/bin/Release/NotificationApp%20v2.exe)https://github.com/YuuyaGitHub/CS-Apps-Repository/raw/main/NotificationApp%20v2/bin/Release/NotificationApp%20v2.exe).
