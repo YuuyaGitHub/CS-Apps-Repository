@@ -25,4 +25,4 @@ If you're curious about what this program looks like, take a look at the image b
 ![Screenshot](Screenshot.png)
 
 # Download
-This program can be downloaded [here]([https://github.com/YuuyaGitHub/CS-Apps-Repository/blob/main/NotificationApp%20v2/bin/Release/NotificationApp%20v2.exe](https://github.com/YuuyaGitHub/CS-Apps-Repository/raw/main/NotificationApp%20v2/bin/Release/NotificationApp%20v2.exe)https://github.com/YuuyaGitHub/CS-Apps-Repository/raw/main/NotificationApp%20v2/bin/Release/NotificationApp%20v2.exe).
+This program can be downloaded [here](https://github.com/YuuyaGitHub/CS-Apps-Repository/raw/main/NotificationApp%20v2/bin/Release/NotificationApp%20v2.exe).
