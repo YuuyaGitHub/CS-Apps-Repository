@@ -6,6 +6,7 @@ No different from [NotificationApp](https://yuuya20061202.wixsite.com/website/%E
 
 # New Features
 * You can now specify icons (``None``, ``Warning``, ``Error``, ``Information``) for notifications.
+* You can now change the balloon icon. (However, the app title and icon displayed on Windows 10 20H2 or later cannot be changed)
 
 # FAQ
 ## How do notifications appear?
@@ -16,6 +17,12 @@ Sent as a notification on Windows 10 and later.<br>
 ### Windows 8.1 and earlier
 Displayed as a balloon on Windows 8.1 and earlier.<br>
 ![Sample on Windows 8.1 and earlier](example/windows81.png)
+
+# Malware detection
+When you download this program, depending on the antivirus software you are using, it may be considered malware and may be deleted.
+<br>This is a **mistake by the antivirus software**, and there is nothing harmful about this program.
+
+Microsoft Defender will treat this as a threat.
 
 # Usage
 Please feel free to use it for any purpose. (Entertainment purposes, educational purposes, Crazy Error, etc.)
