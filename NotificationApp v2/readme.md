@@ -14,6 +14,7 @@ Notification display differs between Windows 10 and later and Windows 8.1 and ea
 ### Windows 10 and later
 Sent as a notification on Windows 10 and later.<br>
 ![Sample on Windows 10/11](example/windows10.png)
+* Please note that the notation of the application name displayed on Windows 10 20H2 or later (```NotificationApp v2```) cannot be changed due to Windows specifications.
 ### Windows 8.1 and earlier
 Displayed as a balloon on Windows 8.1 and earlier.<br>
 ![Sample on Windows 8.1 and earlier](example/windows81.png)
@@ -23,6 +24,10 @@ When you download this program, depending on the antivirus software you are usin
 <br>This is a **mistake by the antivirus software**, and there is nothing harmful about this program.
 
 Microsoft Defender will treat this as a threat.
+
+# Supported environments
+It's written with .NET Framework 3.5, so it can run on any Windows that supports it.
+<br>It cannot be executed in other environments.
 
 # Usage
 Please feel free to use it for any purpose. (Entertainment purposes, educational purposes, Crazy Error, etc.)
