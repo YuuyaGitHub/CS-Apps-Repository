@@ -13,5 +13,8 @@ Below are the requirements needed to run this program:
 * Minecraft log file (latest.log) exists
 * Minecraft is running
 
+# known bugs
+* Due to a code mistake (```javaw``` is supposed to be ```Minecraft```), it doesn't work at all. This will be fixed soon.
+
 # Download
 This program can be downloaded from [this](https://github.com/YuuyaGitHub/CS-Apps-Repository/raw/main/Minecraft%20Log%20Viewer/bin/Release/Minecraft%20Log%20Viewer.exe) link.
