@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Diagnostics;
 using System.IO;
+using System.Linq;
 using System.Threading;
 
 namespace Minecraft_Log_Viewer
@@ -17,7 +18,17 @@ namespace Minecraft_Log_Viewer
             string minecraftFolderPath = Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.ApplicationData), ".minecraft");
             if (!Directory.Exists(minecraftFolderPath))
             {
-                Console.WriteLine("このプログラムを実行するには、Minecraftがインストールされている必要があります。");
+                Console.WriteLine("Minecraft is not installed or the .minecraft folder is missing. Minecraft must be installed to use this program.");
+                WaitForAnyKey();
+                return;
+            }
+
+            string[] targetProcessNames = { "Minecraft", "javaw", "java" };
+            Process[] minecraftProcesses = targetProcessNames.SelectMany(Process.GetProcessesByName).ToArray();
+
+            if (minecraftProcesses.Length == 0)
+            {
+                Console.WriteLine("Minecraft must be running for this program to run. Please run Minecraft and try again.");
                 WaitForAnyKey();
                 return;
             }
@@ -25,15 +36,7 @@ namespace Minecraft_Log_Viewer
             string logsFolderPath = Path.Combine(minecraftFolderPath, "logs");
             if (!Directory.Exists(logsFolderPath))
             {
-                Console.WriteLine("デフォルトのMinecraftフォルダーにlogsフォルダーが見つかりません。Minecraftがインストールされているかか、logsフォルダーが存在することを確認してください。");
-                WaitForAnyKey();
-                return;
-            }
-
-            Process[] minecraftProcesses = Process.GetProcessesByName("Minecraft");
-            if (minecraftProcesses.Length == 0)
-            {
-                Console.WriteLine("このプログラムを実行するには、Minecraftが実行されている必要があります。Minecraftを実行してから再試行してください。");
+                Console.WriteLine("I can't find the logs folder in the default Minecraft folder (.minecraft). Make sure Minecraft is installed or the logs folder exists.");
                 WaitForAnyKey();
                 return;
             }
@@ -50,7 +53,7 @@ namespace Minecraft_Log_Viewer
 
             if (!File.Exists(minecraftLogPath))
             {
-                Console.WriteLine("指定されたフォルダーにはlatest.logがありません。ファイルのパスを確認してください。");
+                Console.WriteLine("latest.log does not exist in the specified location or is not in the Minecraft profile directory. Please check the location and try again.");
                 WaitForAnyKey();
                 return;
             }
@@ -81,7 +84,7 @@ namespace Minecraft_Log_Viewer
 
         static void WaitForAnyKey()
         {
-            Console.WriteLine(Environment.NewLine + "任意のキーを押してアプリケーションを終了します...");
+            Console.WriteLine(Environment.NewLine + "Press any key to exit the application...");
             Console.ReadKey();
         }
     }
