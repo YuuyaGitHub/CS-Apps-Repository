@@ -1,0 +1,9 @@
+C:\Users\Yuuya\source\repos\Font Test Program\bin\Release\Font Test Program.exe
+C:\Users\Yuuya\source\repos\Font Test Program\bin\Release\Font Test Program.pdb
+C:\Users\Yuuya\source\repos\Font Test Program\obj\Release\Font Test Program.csproj.AssemblyReference.cache
+C:\Users\Yuuya\source\repos\Font Test Program\obj\Release\Font_Test_Program.Form1.resources
+C:\Users\Yuuya\source\repos\Font Test Program\obj\Release\Font_Test_Program.Properties.Resources.resources
+C:\Users\Yuuya\source\repos\Font Test Program\obj\Release\Font Test Program.csproj.GenerateResource.cache
+C:\Users\Yuuya\source\repos\Font Test Program\obj\Release\Font Test Program.csproj.CoreCompileInputs.cache
+C:\Users\Yuuya\source\repos\Font Test Program\obj\Release\Font Test Program.exe
+C:\Users\Yuuya\source\repos\Font Test Program\obj\Release\Font Test Program.pdb
