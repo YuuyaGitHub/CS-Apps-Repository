@@ -14,8 +14,8 @@ You can enter sample text by selecting "Enter Sample Text" from the menu bar.
 Note that sampletext.txt is not included in this repository. Please create it yourself.
 
 # Download
-You can download this program from [here](placeholder).
+You can download this program from [here](https://github.com/YuuyaGitHub/CS-Apps-Repository/blob/main/Font%20Test%20Program/bin/Release/Font%20Test%20Program.exe).
 
-# Screenshots
+# Screenshot
 If you want to know what this program looks like, please see the image below.<br>
-![image](placeholder)
+![Screenshot](https://github.com/YuuyaGitHub/CS-Apps-Repository/blob/main/Font%20Test%20Program/Screenshot.png)
