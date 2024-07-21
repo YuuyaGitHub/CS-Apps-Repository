@@ -19,12 +19,6 @@ Sent as a notification on Windows 10 and later.<br>
 Displayed as a balloon on Windows 8.1 and earlier.<br>
 ![Sample on Windows 8.1 and earlier](example/windows81.png)
 
-# Malware detection
-When you download this program, depending on the antivirus software you are using, it may be considered malware and may be deleted.
-<br>This is a **mistake by the antivirus software**, and there is nothing harmful about this program.
-
-Microsoft Defender will treat this as a threat.
-
 # Supported environments
 It's written with .NET Framework 3.5, so it can run on any Windows that supports it.
 <br>It cannot be executed in other environments.
