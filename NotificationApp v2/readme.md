@@ -20,8 +20,8 @@ Displayed as a balloon on Windows 8.1 and earlier.<br>
 ![Sample on Windows 8.1 and earlier](example/windows81.png)
 
 # Supported environments
-It's written with .NET Framework 3.5, so it can run on any Windows that supports it.
-<br>It cannot be executed in other environments.
+It is created using .NET Framework 3.5, so it can be used on systems that support it and have it installed.
+<br>It cannot be used in any other environment.
 
 # Usage
 Please feel free to use it for any purpose. (Entertainment purposes, educational purposes, Crazy Error, etc.)
