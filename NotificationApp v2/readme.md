@@ -1,5 +1,6 @@
 # NotificationApp v2
 This is a new version of NotificationApp.
+<br>This is a version optimized for collecting Crazy Error assets.
 
 # How to use
 No different from [NotificationApp](https://yuuya20061202.wixsite.com/website/%E4%BB%BB%E6%84%8F%E3%81%AE%E5%86%85%E5%AE%B9%E3%81%A7%E9%80%9A%E7%9F%A5%E3%82%92%E9%80%81%E4%BF%A1).
