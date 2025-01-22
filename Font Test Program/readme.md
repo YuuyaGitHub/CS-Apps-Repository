@@ -8,8 +8,8 @@ This program allows you to test fonts using fonts installed on your system.
 
 # Sample Text
 You can enter sample text by selecting "Enter Sample Text" from the menu bar.
-<br>The content entered at this time can be defined by ```sampletext.txt```.
-<br>You can also generate without this file, but the content embedded in the source code will be used.
+<br>The content to be entered at this time can be defined in ``sampletext.txt```.
+<br>If this file does not exist, it can still be generated, but hard-coded example text will be used instead.
 
 Note that sampletext.txt is not included in this repository. Please create it yourself.
 
