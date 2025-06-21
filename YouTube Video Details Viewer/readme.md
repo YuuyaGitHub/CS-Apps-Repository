@@ -13,7 +13,9 @@ The following information can be displayed using this program:
 However, specifying a short video is considered invalid and must be replaced with:
 <br>```https://www.youtube.com/shorts/(YOUR_VIDEO_ID)``` -> ```https://www.youtube.com/watch?v=(YOUR_VIDEO_ID)```
 
-Note: For unknown reasons, line breaks in the description are not displayed correctly. Displayed in one line.
+## Note
+For unknown reasons, line breaks in the description are not displayed correctly(If you copy the content, the line breaks will be reflected correctly).
+Also, due to font restrictions, emojis will not display properly.
 
 # Disclaimer
 Do not decompile the **Original EXE**.
