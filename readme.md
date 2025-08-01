@@ -11,13 +11,11 @@ This includes programs created with Windows Forms applications and console appli
 
 - - -
 
-# Pull Requests
-This repository does not accept any pull requests.
-<br>So please do not submit them.
+# Pull requests
+This repository does not accept any feature or new program requests.
+<br>So please do not submit pull requests.
 
-This also means that we are not accepting any feature requests.
-
-# Reporting an issue
+# Reporting an issues
 If you find a bug in any of the programs listed here, please include the following information in your report or it will not be accepted:
 
 * The name of the program
