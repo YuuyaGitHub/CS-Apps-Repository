@@ -10,10 +10,8 @@ This includes programs created with Windows Forms applications and console appli
 <br>VB.NET is not included as it is not C#.
 
 # Reporting an issues
-If you find a bug in any of the programs listed here, please include the following information in your report or it will not be accepted:
-
-* The name of the program
-* Do not list bugs listed on the program's page.
+To report a bug, certain conditions must be met.
+<br>You can find those conditions [here](https://github.com/YuuyaGitHub/CS-Apps-Repository/blob/main/bugreport.md).
 
 # Repositories for other programming languages
 * [C++](https://github.com/YuuyaGitHub/Various-CPP-applications) ([Old](https://github.com/YuuyaGitHub/My-C-Apps-Pack))
