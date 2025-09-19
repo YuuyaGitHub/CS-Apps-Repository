@@ -6,7 +6,7 @@ body:
     id: bug-details
     attributes:
       label: bug-desc
-      description:　What bug did you encounter?
+      description: What bug did you encounter?
     validations:
       required: true
 
