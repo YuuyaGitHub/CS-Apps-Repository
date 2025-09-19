@@ -2,7 +2,6 @@ name: Bug Report
 description: This is the bug reporting form
 labels: [bug]
 body:
-  - required: true
   - type: markdown
     attributes:
       value: |
@@ -15,21 +14,22 @@ body:
       label: What bug did you encounter?
       description: Please include as many details about the bug as possible.
       placeholder: Describe the bug here...
-      
-  - required: true
+    required: true
+
   - type: input
     id: program-name
     attributes:
       label: Program Name
       description: Please include the name of the program in which the bug occurs.
       placeholder: NotificationApp v2
+    required: true
 
-  - required: true
   - type: input
     id: operating-system
     attributes:
       label: Operating System
       placeholder: Windows 11 24H2
+    required: true
 
   - type: checkboxes
     id: chest-list
