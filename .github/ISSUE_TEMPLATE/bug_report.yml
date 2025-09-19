@@ -7,6 +7,7 @@ body:
       value: |
         **What bug did you encounter?**  
         Please include as many details about the bug as possible.
+    required: true
 
   - type: textarea
     id: bug-details
@@ -14,6 +15,7 @@ body:
       label: What bug did you encounter?
       description: Please include as many details about the bug as possible.
       placeholder: Describe the bug here...
+    required: true
 
   - type: input
     id: program-name
@@ -21,12 +23,14 @@ body:
       label: Program Name
       description: Please include the name of the program in which the bug occurs.
       placeholder: NotificationApp v2
+     required: true
 
   - type: input
     id: operating-system
     attributes:
       label: Operating System
       placeholder: Windows 11 24H2
+    required: true
 
   - type: checkboxes
     id: chest-list
