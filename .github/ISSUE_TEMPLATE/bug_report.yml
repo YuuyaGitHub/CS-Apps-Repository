@@ -5,15 +5,15 @@ body:
   - type: markdown
     attributes:
       value: |
-        **What bug did you encounter?**  
+        ## 🐞 What bug did you encounter?
         Please include as many details about the bug as possible.
 
   - type: textarea
     id: bug-details
     attributes:
-      label: What bug did you encounter?
-      description: Please include as many details about the bug as possible.
-      placeholder: Describe the bug here...
+      label: Bug Description
+      description: Describe the bug in detail, including steps to reproduce if possible.
+      placeholder: e.g. The app crashes when clicking the save button.
     validations:
       required: true
 
@@ -21,7 +21,7 @@ body:
     id: program-name
     attributes:
       label: Program Name
-      description: Please include the name of the program in which the bug occurs.
+      description: Name of the program where the bug occurred.
       placeholder: NotificationApp v2
     validations:
       required: true
