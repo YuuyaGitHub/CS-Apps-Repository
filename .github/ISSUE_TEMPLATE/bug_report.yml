@@ -3,7 +3,7 @@ description: This is the bug reporting form
 labels: [bug]
 body:
  - type: input
-    id: program-name
+   id: program-name
     attributes:
       label: Program Name
       description: Name of the program where the bug occurred.
