@@ -7,15 +7,13 @@ body:
       value: |
         **What bug did you encounter?**  
         Please include as many details about the bug as possible.
+
   - type: textarea
     id: bug-details
     attributes:
       label: What bug did you encounter?
       description: Please include as many details about the bug as possible.
       placeholder: Describe the bug here...
-      value: ""
-      validations:
-        required: true
 
   - type: input
     id: program-name
@@ -23,16 +21,12 @@ body:
       label: Program Name
       description: Please include the name of the program in which the bug occurs.
       placeholder: NotificationApp v2
-      validations:
-        required: true
 
   - type: input
     id: operating-system
     attributes:
       label: Operating System
-      placeholder: e.g. Windows 11 24H2
-      validations:
-        required: true
+      placeholder: Windows 11 24H2
 
   - type: checkboxes
     id: chest-list
@@ -40,7 +34,6 @@ body:
       label: Chest List
       options:
         - label: The issues encountered are not those listed on the program page.
-          required: false
 
   - type: textarea
     id: additional-info
@@ -49,5 +42,3 @@ body:
       description: Any other information you'd like to share.
       placeholder: None
       value: None
-      validations:
-        required: false
