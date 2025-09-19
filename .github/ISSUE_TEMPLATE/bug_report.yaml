@@ -1,0 +1,53 @@
+name: Bug Report
+description: バグ報告用のフォームです
+labels: [bug]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        **What bug did you encounter?**  
+        Please include as many details about the bug as possible.
+  - type: textarea
+    id: bug-details
+    attributes:
+      label: What bug did you encounter?
+      description: Please include as many details about the bug as possible.
+      placeholder: Describe the bug here...
+      value: ""
+      validations:
+        required: true
+
+  - type: input
+    id: program-name
+    attributes:
+      label: Program Name
+      description: Please include the name of the program in which the bug occurs.
+      placeholder: e.g. MyApp v2.3
+      validations:
+        required: true
+
+  - type: input
+    id: operating-system
+    attributes:
+      label: Operating System
+      placeholder: Windows 11 24H2
+      validations:
+        required: true
+
+  - type: checkboxes
+    id: chest-list
+    attributes:
+      label: Chest List
+      options:
+        - label: The issues encountered are not those listed on the program page.
+          required: false
+
+  - type: textarea
+    id: additional-info
+    attributes:
+      label: Additional Info
+      description: Any other information you'd like to share.
+      placeholder: None
+      value: None
+      validations:
+        required: false
