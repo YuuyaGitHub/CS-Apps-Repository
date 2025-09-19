@@ -2,20 +2,20 @@ name: Bug Report
 description: This is the bug reporting form
 labels: [bug]
 body:
-  - type: textarea
-    id: bug-details
-    attributes:
-      label: bug-desc
-      description: What bug did you encounter?
-    validations:
-      required: true
-
-  - type: input
+ - type: input
     id: program-name
     attributes:
       label: Program Name
       description: Name of the program where the bug occurred.
       placeholder: e.g. NotificationApp v2
+    validations:
+      required: true
+      
+  - type: textarea
+    id: bug-details
+    attributes:
+      label: What issue did you encounter?
+      description: Please describe the issue that occurred.
     validations:
       required: true
 
