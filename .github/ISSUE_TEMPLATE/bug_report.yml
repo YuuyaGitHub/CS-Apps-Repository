@@ -2,12 +2,12 @@ name: Bug Report
 description: This is the bug reporting form
 labels: [bug]
 body:
+  - required: true
   - type: markdown
     attributes:
       value: |
         **What bug did you encounter?**  
         Please include as many details about the bug as possible.
-    required: true
 
   - type: textarea
     id: bug-details
@@ -15,7 +15,6 @@ body:
       label: What bug did you encounter?
       description: Please include as many details about the bug as possible.
       placeholder: Describe the bug here...
-    required: true
 
   - type: input
     id: program-name
