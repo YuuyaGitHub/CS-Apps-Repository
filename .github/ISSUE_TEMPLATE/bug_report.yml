@@ -2,18 +2,11 @@ name: Bug Report
 description: This is the bug reporting form
 labels: [bug]
 body:
-  - type: markdown
-    attributes:
-      value: |
-        ## 🐞 What bug did you encounter?
-        Please include as many details about the bug as possible.
-
   - type: textarea
     id: bug-details
     attributes:
-      label: Bug Description
-      description: Describe the bug in detail, including steps to reproduce if possible.
-      placeholder: e.g. The app crashes when clicking the save button.
+      label: bug-desc
+      description:　What bug did you encounter?
     validations:
       required: true
 
@@ -22,7 +15,7 @@ body:
     attributes:
       label: Program Name
       description: Name of the program where the bug occurred.
-      placeholder: NotificationApp v2
+      placeholder: e.g. NotificationApp v2
     validations:
       required: true
 
@@ -30,7 +23,7 @@ body:
     id: operating-system
     attributes:
       label: Operating System
-      placeholder: Windows 11 24H2
+      placeholder: e.g. Windows 11 24H2
     validations:
       required: true
 
@@ -45,6 +38,5 @@ body:
     id: additional-info
     attributes:
       label: Additional Info
-      description: Any other information you'd like to share.
       placeholder: None
       value: None
